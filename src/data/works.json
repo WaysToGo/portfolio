@@ -1,0 +1,103 @@
+[
+  {
+    "title": "Pure CSS",
+    "category": ["design", "code"],
+    "client": "Personal",
+    "year": "2017",
+    "featured": true,
+    "url": "https://waystogo.github.io/userDashboard/",
+    "image": {
+      "src": "/images/works/user-dashboard.png",
+      "sources": [
+        {
+          "media": "max-width: 40rem",
+          "srcset": ["/images/works/user-dashboard.png"]
+        },
+        {
+          "srcset": ["/images/works/user-dashboard.png"]
+        }
+      ]
+    }
+  },
+  {
+    "title": "App Quality",
+    "category": ["design", "code"],
+    "client": "Personal",
+    "year": "2019",
+    "featured": true,
+    "url": "https://waystogo.github.io/snake_game/",
+    "image": {
+      "src": "/images/works/snake-game.png",
+      "sources": [
+        {
+          "media": "max-width: 40rem",
+          "srcset": ["/images/works/snake-game.png"]
+        },
+        {
+          "srcset": ["/images/works/snake-game.png "]
+        }
+      ]
+    }
+  },
+
+  {
+    "title": "Snake game",
+    "category": ["design", "development"],
+    "client": "Personal",
+    "url": "https://waystogo.github.io/snake_game/",
+    "year": "2019",
+    "featured": false
+  },
+  {
+    "title": "Viz",
+    "category": ["design", "development", "code"],
+    "client": "Personal",
+    "url": "https://waystogo.github.io/react_viz/",
+    "year": "2019",
+    "featured": false
+  },
+  {
+    "title": "Millicom",
+    "category": ["development", "code"],
+    "client": "Millicom",
+    "year": "2019",
+    "featured": false
+  },
+  {
+    "title": "Wind Tre",
+    "category": ["development", "code"],
+    "client": "Wind Tre",
+    "year": "2019",
+    "featured": false
+  },
+  {
+    "title": "Xl Axita",
+    "category": ["development", "code"],
+    "client": "Xl Axita",
+    "year": "2018",
+    "featured": false
+  },
+  {
+    "title": "Meijer",
+    "category": ["development", "code"],
+    "client": "Meijer",
+    "year": "2018",
+    "featured": false
+  },
+
+  {
+    "title": "Altria",
+    "category": ["development", "code"],
+    "client": "Altria",
+    "year": "2018",
+    "featured": false
+  },
+  {
+    "title": "Pure Css",
+    "category": ["design", "code"],
+    "client": "Personal",
+    "url": "https://waystogo.github.io/The-Longboard-pt-XIV-CSS/",
+    "year": "2018",
+    "featured": false
+  }
+]
