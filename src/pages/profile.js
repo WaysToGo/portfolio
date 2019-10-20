@@ -21,29 +21,13 @@ const profileQuery = graphql`
         }
       }
     }
-    mentions: allMentionsJson {
-      edges {
-        mention: node {
-          name
-          url
-        }
-      }
-    }
-    articles: allArticlesJson {
-      edges {
-        article: node {
-          name
-          url
-        }
-      }
-    }
   }
 `
 
 export default ({ location }) =>
-  <StaticQuery 
+  <StaticQuery
     query={profileQuery}
-    render={data => 
+    render={data =>
       <Layout location={location}>
         <ProfileContent data={data}/>
       </Layout>
