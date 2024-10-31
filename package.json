@@ -12,7 +12,7 @@
     "precommit": "npm run lint:css && npm run lint:js",
     "gzip": "gzip -r public",
     "deploy": "gatsby build && gh-pages -d public -b master",
-    "pubblish": "npm run build && npm run deploy"
+    "publish": "npm run build && npm run deploy"
   },
   "keywords": [
     "react",
