@@ -20,11 +20,29 @@ export default ({ data }) => {
         <ProfileIntroSection
           content={() =>
             <>
-            <p>Over the last 8+ years, I have been working with small- and medium-size companies..
-              I focus primarily on building and implementing user interfaces that are usable and scalable for any web-based platform.{' '}
-              <a href="https://github.com/WaysToGo" target="_blank" rel="noopener noreferrer">I enjoy experimenting</a>,building and trying out new tools.</p>
-            <p>Sometimes <a href="https://twitter.com/reddy_js_dev" target="_blank" rel="noopener noreferrer">I tweet</a>.</p>
-            </>
+            <p>
+              For over 8 years, I've partnered with companies of all sizes - from small startups 
+              to large enterprises - to build and implement scalable, user-friendly interfaces 
+              for web platforms. 
+              <a 
+                href="https://github.com/WaysToGo" 
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                I love experimenting
+              </a> 
+              with new tools and technologies.
+            </p>
+            <p>
+              Find me on <a 
+                href="https://twitter.com/shiv4io" 
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                Twitter
+              </a> where I share my thoughts occasionally.
+            </p>
+           </>
           }
         />
         <ListsSection>

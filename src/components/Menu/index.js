@@ -6,7 +6,7 @@ const Menu = () =>
   <Wrapper>
     <Nav>
       <NavItem>
-        <a href="https://twitter.com/reddy_js_dev" rel="noopener noreferrer" target="_blank">Twitter</a>
+        <a href="https://twitter.com/shiv4io" rel="noopener noreferrer" target="_blank">Twitter</a>
       </NavItem>
       <NavItem>
         <a href="https://www.linkedin.com/in/animireddyshiva/" rel="noopener noreferrer" target="_blank">Linkedin</a>
