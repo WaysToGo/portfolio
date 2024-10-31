@@ -20,7 +20,7 @@ export default ({ data }) => {
         <ProfileIntroSection
           content={() =>
             <>
-            <p>Over the last 2+ years, I have been working with small- and medium-size companies..
+            <p>Over the last 8+ years, I have been working with small- and medium-size companies..
               I focus primarily on building and implementing user interfaces that are usable and scalable for any web-based platform.{' '}
               <a href="https://github.com/WaysToGo" target="_blank" rel="noopener noreferrer">I enjoy experimenting</a>,building and trying out new tools.</p>
             <p>Sometimes <a href="https://twitter.com/reddy_js_dev" target="_blank" rel="noopener noreferrer">I tweet</a>.</p>
